@@ -1,1 +1,2 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+/Users/rohananjutgi/Desktop/new_folder/banking-transactions-dataset/versions/1/*.csv filter=lfs diff=lfs merge=lfs -text
